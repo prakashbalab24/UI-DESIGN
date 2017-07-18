@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SchoolCom Task</string>
+    <string name="action_settings">Settings</string>
+    <string name="write_post">Write anything to Post...</string>
+    <string name="school">Holo School</string>
+    <string name="time">3hr Ago</string>
+    <string name="post">Write Post</string>
+</resources>
