@@ -19,7 +19,7 @@ import singledevapps.schoolcomtask.model.PostData;
 public class JsonEncoder {
     public static JSONObject createPost(ArrayList<String> uri,String post) throws JSONException {
 
-        Log.i("PostTostore",uri.toString());
+        Log.i("Jsonstring",uri.toString());
         JSONObject jResult = new JSONObject();
         JSONArray jsonArray = new JSONArray(uri);
         jResult.putOpt("post", post);
